@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/ni5arga/ni5arga/refs/heads/main/header.jpg)
+![](https://raw.githubusercontent.com/ni5arga/ni5arga/refs/heads/main/header.png)
 
 <samp>
   
