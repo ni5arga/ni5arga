@@ -1,5 +1,4 @@
-![](https://raw.githubusercontent.com/ni5arga/ni5arga/refs/heads/main/header.png)
-
+[![header](https://raw.githubusercontent.com/ni5arga/ni5arga/refs/heads/main/header.png)](https://ni5arga.com)
   
 <samp>
   
