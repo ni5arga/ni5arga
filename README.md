@@ -3,7 +3,7 @@
 
 i'm nisarga, a **security research engineer at [iit kanpur](https://iitk.ac.in)**. i work on zero-day discovery, offensive security research and llms that hack autonomously - making machines break other machines. before this, i built backend systems and infrastructure at several startups.
 
-i've ethically hacked india's largest examination infrastructure (cbse), governments, critical infrastructure and companies valued in the millions and billions of usd. my research has been covered by [bbc, bloomberg and other national and international outlets](https://ni5arga.com/press). i've also spoken at c0c0n, indiafoss and other tech conferences. i'm also a [foss hack '26 winner](https://fossunited.org/fosshack/results?year=2026) - india's largest open-source hackathon.
+i've ethically hacked india's largest examination infrastructure (cbse), governments, critical infrastructure and companies valued in the millions and billions of usd. my research has been covered by [bbc, bloomberg and other national and international outlets](https://ni5arga.com/press). i've also spoken at c0c0n, indiafoss and other tech conferences. i'm also a [foss hack '26](https://fossunited.org/fosshack/results?year=2026) winner - india's largest open-source hackathon.
 
 i love that someone can give years of their life to a piece of software and leave its source to strangers, as if to say: what i have learned is yours; may you go further than i ever could. i would gladly spend my years in that kind of devotion, leaving something of myself in the things i build, that they might be of use to someone i shall never know.
 
